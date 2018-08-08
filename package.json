@@ -1,0 +1,31 @@
+{
+  "name": "@tuuling/npmlulz",
+  "version": "0.1.0",
+  "description": "Just for testing, lulz",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuuling/npmlulz.git"
+  },
+  "keywords": [
+    "lulz",
+    "testing"
+  ],
+  "author": "Reedik Tuuling <reedik.tuuling@gmail.com> (http://reediktuuling.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuuling/npmlulz/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/tuuling/npmlulz#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "typescript": "^3.0.1"
+  }
+}
